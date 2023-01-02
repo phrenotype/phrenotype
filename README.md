@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/phrenotype?label=Follow&style=social)
 ![Twitter followers](https://img.shields.io/twitter/follow/phrenotyper?style=social)
 
-I'm Paul Robert, a software developer and pentester from Nigeria. 
+I'm Paul Robert, a life long learner from Nigeria. 
 All the repositories here are my original work.
 
 
