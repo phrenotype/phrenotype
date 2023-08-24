@@ -2,11 +2,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/phrenotype?label=Follow&style=social)
 ![Twitter followers](https://img.shields.io/twitter/follow/phrenotyper?style=social)
 
-I'm Paul Robert, a life long learner from Nigeria. 
+I'm Paul Robert.
 All the repositories here are my original work.
 
 
-**I work with:**  
+**I work with: Every language and framework.**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,5 +23,5 @@ All the repositories here are my original work.
 
 **Fun Fact:** I can pick up any language or framework to an mastery in *2 hours max!* Challenge me :)
 
-- **Email: paul.contrib@gmail.com**  
+- **Email: paul@paulrobert.xyz**  
 - ![Twitter followers](https://img.shields.io/twitter/follow/phrenotyper?style=social)
