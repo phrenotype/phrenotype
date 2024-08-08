@@ -21,7 +21,7 @@ All the repositories here are my original work.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
-**Fun Fact:** I can pick up any language or framework to an mastery in *2 hours max!* Challenge me :)
+**Fun Fact:** I can pick up any language or framework to mastery in *2 hours max!* Challenge me :)
 
 - **Email: dev@paulrobert.xyz**  
 - ![Twitter followers](https://img.shields.io/twitter/follow/phrenotyper?style=social)
