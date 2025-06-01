@@ -23,5 +23,5 @@ All the repositories here are my original work.
 
 **Fun Fact:** I can pick up any language or framework to mastery in *2 hours max!* Challenge me :)
 
-- **Email: dev@paulrobert.xyz**  
+- **Email: paul@paulrobert.net**  
 - ![Twitter followers](https://img.shields.io/twitter/follow/phrenotyper?style=social)
